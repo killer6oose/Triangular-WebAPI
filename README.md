@@ -22,7 +22,7 @@ To get started with Triangular-WebAPI, follow these steps:
 
 ### Prerequisites
 
-- .NET Core SDK (version X.X.X or higher)
+- .NET Core SDK (version 7.0 or higher)
 - SQL Server (Local or Azure)
 
 ### Installation
