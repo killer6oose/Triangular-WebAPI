@@ -1,8 +1,7 @@
-﻿using System;
+﻿using Moq;
+using Triangular.BLL.Calculators;
+using Triangular.BLL.Models;
 using Xunit;
-using Triangular.BLL;
-using Triangular.BLL.Calculators.TriangleCalculators;
-using Moq;
 
 namespace Triangular.BLL.Tests.Unit.Calculators.TriangleCalculators
 {

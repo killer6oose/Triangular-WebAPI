@@ -1,8 +1,7 @@
-﻿using System;
+﻿using Triangular.BLL.Calculators;
+using Triangular.BLL.Models;
+using Triangular.BLL.Services;
 using Xunit;
-using Triangular.BLL;
-using Triangular.BLL.Calculators.GridReferenceCalculators;
-using Moq;
 
 namespace Triangular.BLL.Tests.Unit.Calculators.GridReferenceCalculators
 {

@@ -1,6 +1,5 @@
-using System;
+using Triangular.BLL.Models;
 using Xunit;
-using Triangular.BLL;
 
 namespace Triangular.BLL.Tests.Unit
 {

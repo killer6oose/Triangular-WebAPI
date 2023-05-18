@@ -13,7 +13,7 @@
             </div>
             <div class="form-group">
                 <label for="gridWidth">Cell Size:</label>
-                <input type="number" class="form-control" id="cellSize" placeholder="Enter cell size" min="10" max="100"  v-model.number="cellSize" @keyup="checkCellSize">
+                <input type="number" class="form-control" id="cellSize" placeholder="Enter cell size" min="10" max="100" v-model.number="cellSize" @keyup="checkCellSize">
                 <p class="text-muted">Must be between 10 &amp; 100</p>
             </div>
         </form>
@@ -49,5 +49,4 @@
 </script>
 
 <style>
-
 </style>

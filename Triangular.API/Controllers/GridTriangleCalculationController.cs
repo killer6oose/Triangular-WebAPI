@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Triangular.API.RequestBodies;
-using Triangular.BLL;
-using Triangular.BLL.Calculators.TriangleCalculators;
+using Triangular.BLL.Models;
+using Triangular.BLL.Services;
 
 namespace Triangular.API.Controllers
 {
@@ -14,12 +9,10 @@ namespace Triangular.API.Controllers
     [ApiController]
     public class GridTriangleCalculationController : Controller
     {
-        private readonly TriangleByGridReferenceCalculator Calculator;
+        private readonly ITriangleByGridReferenceCalculator _calculator;
 
-        public GridTriangleCalculationController(TriangleByGridReferenceCalculator calculator)
-        {
-            this.Calculator = calculator;
-        }
+        public GridTriangleCalculationController(ITriangleByGridReferenceCalculator calculator)
+            => _calculator = calculator;
 
         // POST: api/GridTriangleCalculation
         [HttpPost]
@@ -29,7 +22,7 @@ namespace Triangular.API.Controllers
 
             GridReference gridReference = new GridReference(request.GridReference);
 
-            return Json(this.Calculator.Calculate(grid, gridReference).Coordinates);
+            return Json(_calculator.Calculate(grid, gridReference).Coordinates);
         }
     }
 }

@@ -1,15 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.489
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangular.BLL.Tests", "Triangular.BLL.Tests\Triangular.BLL.Tests.csproj", "{87FFCF21-3AD7-4AE8-8868-DA5D5DF699A5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangular.BLL", "Triangular.BLL\Triangular.BLL.csproj", "{D2C9719E-D0D7-46A8-9D37-DB8D6612A7C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangular.API", "Triangular.API\Triangular.API.csproj", "{73846348-D95A-495A-A378-00C817CEABAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangular.API", "Triangular.API\Triangular.API.csproj", "{73846348-D95A-495A-A378-00C817CEABAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangular.Web", "Triangular.Web\Triangular.Web.csproj", "{EB626FD6-DB8E-4C65-B997-A8790A82B24B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangular.Web", "Triangular.Web\Triangular.Web.csproj", "{EB626FD6-DB8E-4C65-B997-A8790A82B24B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

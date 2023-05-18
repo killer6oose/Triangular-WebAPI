@@ -85,14 +85,12 @@
 /******/ })
 /************************************************************************/
 /******/ ({
-
 /***/ "./assets/js/app.js":
 /*!**************************!*\
   !*** ./assets/js/app.js ***!
   \**************************/
 /*! no exports provided */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
-
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.common.js");
@@ -100,7 +98,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_TriangleCalculator_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./components/TriangleCalculator.vue */ "./assets/js/components/TriangleCalculator.vue");
 window._ = __webpack_require__(/*! lodash */ "./node_modules/lodash/lodash.js");
 window.axios = __webpack_require__(/*! axios */ "./node_modules/axios/index.js");
-
 
 new vue__WEBPACK_IMPORTED_MODULE_0___default.a({
   el: '#app',
@@ -117,16 +114,11 @@ new vue__WEBPACK_IMPORTED_MODULE_0___default.a({
   \*****************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
-
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _TriangleCalculator_vue_vue_type_template_id_5845620b___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./TriangleCalculator.vue?vue&type=template&id=5845620b& */ "./assets/js/components/TriangleCalculator.vue?vue&type=template&id=5845620b&");
 /* harmony import */ var _TriangleCalculator_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./TriangleCalculator.vue?vue&type=script&lang=js& */ "./assets/js/components/TriangleCalculator.vue?vue&type=script&lang=js&");
 /* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
-
-
-
-
 
 /* normalize component */
 
@@ -138,7 +130,7 @@ var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_
   null,
   null,
   null
-  
+
 )
 
 /* hot reload */
@@ -154,11 +146,10 @@ component.options.__file = "assets/js/components/TriangleCalculator.vue"
   \******************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
-
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_TriangleCalculator_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./TriangleCalculator.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./assets/js/components/TriangleCalculator.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_TriangleCalculator_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_TriangleCalculator_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]);
 
 /***/ }),
 
@@ -168,15 +159,12 @@ __webpack_require__.r(__webpack_exports__);
   \************************************************************************************/
 /*! exports provided: render, staticRenderFns */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
-
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_TriangleCalculator_vue_vue_type_template_id_5845620b___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./TriangleCalculator.vue?vue&type=template&id=5845620b& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./assets/js/components/TriangleCalculator.vue?vue&type=template&id=5845620b&");
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_TriangleCalculator_vue_vue_type_template_id_5845620b___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_TriangleCalculator_vue_vue_type_template_id_5845620b___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
-
-
 
 /***/ }),
 
@@ -186,16 +174,11 @@ __webpack_require__.r(__webpack_exports__);
   \*************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
-
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _TriangularGrid_vue_vue_type_template_id_fad6b0c4___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./TriangularGrid.vue?vue&type=template&id=fad6b0c4& */ "./assets/js/components/TriangularGrid.vue?vue&type=template&id=fad6b0c4&");
 /* harmony import */ var _TriangularGrid_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./TriangularGrid.vue?vue&type=script&lang=js& */ "./assets/js/components/TriangularGrid.vue?vue&type=script&lang=js&");
 /* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
-
-
-
-
 
 /* normalize component */
 
@@ -207,7 +190,7 @@ var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_
   null,
   null,
   null
-  
+
 )
 
 /* hot reload */
@@ -223,11 +206,10 @@ component.options.__file = "assets/js/components/TriangularGrid.vue"
   \**************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
-
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_TriangularGrid_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./TriangularGrid.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./assets/js/components/TriangularGrid.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_TriangularGrid_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_TriangularGrid_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]);
 
 /***/ }),
 
@@ -237,15 +219,12 @@ __webpack_require__.r(__webpack_exports__);
   \********************************************************************************/
 /*! exports provided: render, staticRenderFns */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
-
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_TriangularGrid_vue_vue_type_template_id_fad6b0c4___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./TriangularGrid.vue?vue&type=template&id=fad6b0c4& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./assets/js/components/TriangularGrid.vue?vue&type=template&id=fad6b0c4&");
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_TriangularGrid_vue_vue_type_template_id_fad6b0c4___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_TriangularGrid_vue_vue_type_template_id_fad6b0c4___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
-
-
 
 /***/ }),
 
@@ -255,7 +234,6 @@ __webpack_require__.r(__webpack_exports__);
   \******************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
-
 // removed by extract-text-webpack-plugin
 
 /***/ }),
@@ -266,7 +244,6 @@ __webpack_require__.r(__webpack_exports__);
   \*************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 module.exports = __webpack_require__(/*! ./lib/axios */ "./node_modules/axios/lib/axios.js");
 
 /***/ }),
@@ -277,9 +254,7 @@ module.exports = __webpack_require__(/*! ./lib/axios */ "./node_modules/axios/li
   \************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 var utils = __webpack_require__(/*! ./../utils */ "./node_modules/axios/lib/utils.js");
 var settle = __webpack_require__(/*! ./../core/settle */ "./node_modules/axios/lib/core/settle.js");
@@ -460,7 +435,6 @@ module.exports = function xhrAdapter(config) {
   });
 };
 
-
 /***/ }),
 
 /***/ "./node_modules/axios/lib/axios.js":
@@ -469,9 +443,7 @@ module.exports = function xhrAdapter(config) {
   \*****************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 var utils = __webpack_require__(/*! ./utils */ "./node_modules/axios/lib/utils.js");
 var bind = __webpack_require__(/*! ./helpers/bind */ "./node_modules/axios/lib/helpers/bind.js");
@@ -524,7 +496,6 @@ module.exports = axios;
 // Allow use of default import syntax in TypeScript
 module.exports.default = axios;
 
-
 /***/ }),
 
 /***/ "./node_modules/axios/lib/cancel/Cancel.js":
@@ -533,9 +504,7 @@ module.exports.default = axios;
   \*************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 /**
  * A `Cancel` is an object that is thrown when an operation is canceled.
@@ -555,7 +524,6 @@ Cancel.prototype.__CANCEL__ = true;
 
 module.exports = Cancel;
 
-
 /***/ }),
 
 /***/ "./node_modules/axios/lib/cancel/CancelToken.js":
@@ -564,9 +532,7 @@ module.exports = Cancel;
   \******************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 var Cancel = __webpack_require__(/*! ./Cancel */ "./node_modules/axios/lib/cancel/Cancel.js");
 
@@ -624,7 +590,6 @@ CancelToken.source = function source() {
 
 module.exports = CancelToken;
 
-
 /***/ }),
 
 /***/ "./node_modules/axios/lib/cancel/isCancel.js":
@@ -633,14 +598,11 @@ module.exports = CancelToken;
   \***************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 module.exports = function isCancel(value) {
   return !!(value && value.__CANCEL__);
 };
-
 
 /***/ }),
 
@@ -650,9 +612,7 @@ module.exports = function isCancel(value) {
   \**********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 var defaults = __webpack_require__(/*! ./../defaults */ "./node_modules/axios/lib/defaults.js");
 var utils = __webpack_require__(/*! ./../utils */ "./node_modules/axios/lib/utils.js");
@@ -732,7 +692,6 @@ utils.forEach(['post', 'put', 'patch'], function forEachMethodWithData(method) {
 
 module.exports = Axios;
 
-
 /***/ }),
 
 /***/ "./node_modules/axios/lib/core/InterceptorManager.js":
@@ -741,9 +700,7 @@ module.exports = Axios;
   \***********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 var utils = __webpack_require__(/*! ./../utils */ "./node_modules/axios/lib/utils.js");
 
@@ -796,7 +753,6 @@ InterceptorManager.prototype.forEach = function forEach(fn) {
 
 module.exports = InterceptorManager;
 
-
 /***/ }),
 
 /***/ "./node_modules/axios/lib/core/createError.js":
@@ -805,9 +761,7 @@ module.exports = InterceptorManager;
   \****************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 var enhanceError = __webpack_require__(/*! ./enhanceError */ "./node_modules/axios/lib/core/enhanceError.js");
 
@@ -826,7 +780,6 @@ module.exports = function createError(message, config, code, request, response) 
   return enhanceError(error, config, code, request, response);
 };
 
-
 /***/ }),
 
 /***/ "./node_modules/axios/lib/core/dispatchRequest.js":
@@ -835,9 +788,7 @@ module.exports = function createError(message, config, code, request, response) 
   \********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 var utils = __webpack_require__(/*! ./../utils */ "./node_modules/axios/lib/utils.js");
 var transformData = __webpack_require__(/*! ./transformData */ "./node_modules/axios/lib/core/transformData.js");
@@ -924,7 +875,6 @@ module.exports = function dispatchRequest(config) {
   });
 };
 
-
 /***/ }),
 
 /***/ "./node_modules/axios/lib/core/enhanceError.js":
@@ -933,9 +883,7 @@ module.exports = function dispatchRequest(config) {
   \*****************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 /**
  * Update an Error with the specified config, error code, and response.
@@ -957,7 +905,6 @@ module.exports = function enhanceError(error, config, code, request, response) {
   return error;
 };
 
-
 /***/ }),
 
 /***/ "./node_modules/axios/lib/core/settle.js":
@@ -966,9 +913,7 @@ module.exports = function enhanceError(error, config, code, request, response) {
   \***********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 var createError = __webpack_require__(/*! ./createError */ "./node_modules/axios/lib/core/createError.js");
 
@@ -995,7 +940,6 @@ module.exports = function settle(resolve, reject, response) {
   }
 };
 
-
 /***/ }),
 
 /***/ "./node_modules/axios/lib/core/transformData.js":
@@ -1004,9 +948,7 @@ module.exports = function settle(resolve, reject, response) {
   \******************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 var utils = __webpack_require__(/*! ./../utils */ "./node_modules/axios/lib/utils.js");
 
@@ -1027,7 +969,6 @@ module.exports = function transformData(data, headers, fns) {
   return data;
 };
 
-
 /***/ }),
 
 /***/ "./node_modules/axios/lib/defaults.js":
@@ -1036,10 +977,8 @@ module.exports = function transformData(data, headers, fns) {
   \********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
 /* WEBPACK VAR INJECTION */(function(process) {
-
 var utils = __webpack_require__(/*! ./utils */ "./node_modules/axios/lib/utils.js");
 var normalizeHeaderName = __webpack_require__(/*! ./helpers/normalizeHeaderName */ "./node_modules/axios/lib/helpers/normalizeHeaderName.js");
 
@@ -1145,9 +1084,7 @@ module.exports = defaults;
   \************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 module.exports = function bind(fn, thisArg) {
   return function wrap() {
@@ -1159,7 +1096,6 @@ module.exports = function bind(fn, thisArg) {
   };
 };
 
-
 /***/ }),
 
 /***/ "./node_modules/axios/lib/helpers/btoa.js":
@@ -1168,9 +1104,7 @@ module.exports = function bind(fn, thisArg) {
   \************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 // btoa polyfill for IE<10 courtesy https://github.com/davidchambers/Base64.js
 
@@ -1207,7 +1141,6 @@ function btoa(input) {
 
 module.exports = btoa;
 
-
 /***/ }),
 
 /***/ "./node_modules/axios/lib/helpers/buildURL.js":
@@ -1216,9 +1149,7 @@ module.exports = btoa;
   \****************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 var utils = __webpack_require__(/*! ./../utils */ "./node_modules/axios/lib/utils.js");
 
@@ -1285,7 +1216,6 @@ module.exports = function buildURL(url, params, paramsSerializer) {
   return url;
 };
 
-
 /***/ }),
 
 /***/ "./node_modules/axios/lib/helpers/combineURLs.js":
@@ -1294,9 +1224,7 @@ module.exports = function buildURL(url, params, paramsSerializer) {
   \*******************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 /**
  * Creates a new URL by combining the specified URLs
@@ -1311,7 +1239,6 @@ module.exports = function combineURLs(baseURL, relativeURL) {
     : baseURL;
 };
 
-
 /***/ }),
 
 /***/ "./node_modules/axios/lib/helpers/cookies.js":
@@ -1320,9 +1247,7 @@ module.exports = function combineURLs(baseURL, relativeURL) {
   \***************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 var utils = __webpack_require__(/*! ./../utils */ "./node_modules/axios/lib/utils.js");
 
@@ -1376,7 +1301,6 @@ module.exports = (
   })()
 );
 
-
 /***/ }),
 
 /***/ "./node_modules/axios/lib/helpers/isAbsoluteURL.js":
@@ -1385,9 +1309,7 @@ module.exports = (
   \*********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 /**
  * Determines whether the specified URL is absolute
@@ -1402,7 +1324,6 @@ module.exports = function isAbsoluteURL(url) {
   return /^([a-z][a-z\d\+\-\.]*:)?\/\//i.test(url);
 };
 
-
 /***/ }),
 
 /***/ "./node_modules/axios/lib/helpers/isURLSameOrigin.js":
@@ -1411,9 +1332,7 @@ module.exports = function isAbsoluteURL(url) {
   \***********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 var utils = __webpack_require__(/*! ./../utils */ "./node_modules/axios/lib/utils.js");
 
@@ -1482,7 +1401,6 @@ module.exports = (
   })()
 );
 
-
 /***/ }),
 
 /***/ "./node_modules/axios/lib/helpers/normalizeHeaderName.js":
@@ -1491,9 +1409,7 @@ module.exports = (
   \***************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 var utils = __webpack_require__(/*! ../utils */ "./node_modules/axios/lib/utils.js");
 
@@ -1506,7 +1422,6 @@ module.exports = function normalizeHeaderName(headers, normalizedName) {
   });
 };
 
-
 /***/ }),
 
 /***/ "./node_modules/axios/lib/helpers/parseHeaders.js":
@@ -1515,9 +1430,7 @@ module.exports = function normalizeHeaderName(headers, normalizedName) {
   \********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 var utils = __webpack_require__(/*! ./../utils */ "./node_modules/axios/lib/utils.js");
 
@@ -1571,7 +1484,6 @@ module.exports = function parseHeaders(headers) {
   return parsed;
 };
 
-
 /***/ }),
 
 /***/ "./node_modules/axios/lib/helpers/spread.js":
@@ -1580,9 +1492,7 @@ module.exports = function parseHeaders(headers) {
   \**************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 /**
  * Syntactic sugar for invoking a function and expanding an array for arguments.
@@ -1610,7 +1520,6 @@ module.exports = function spread(callback) {
   };
 };
 
-
 /***/ }),
 
 /***/ "./node_modules/axios/lib/utils.js":
@@ -1619,9 +1528,7 @@ module.exports = function spread(callback) {
   \*****************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
-
 
 var bind = __webpack_require__(/*! ./helpers/bind */ "./node_modules/axios/lib/helpers/bind.js");
 var isBuffer = __webpack_require__(/*! is-buffer */ "./node_modules/is-buffer/index.js");
@@ -1925,7 +1832,6 @@ module.exports = {
   trim: trim
 };
 
-
 /***/ }),
 
 /***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./assets/js/components/TriangleCalculator.vue?vue&type=script&lang=js&":
@@ -1934,7 +1840,6 @@ module.exports = {
   \**************************************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
-
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _TriangularGrid__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./TriangularGrid */ "./assets/js/components/TriangularGrid.vue");
@@ -1991,7 +1896,6 @@ __webpack_require__.r(__webpack_exports__);
   \**********************************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
-
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 //
@@ -2134,7 +2038,6 @@ __webpack_require__.r(__webpack_exports__);
   \*****************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
-
 /*!
  * Determine if an object is a Buffer
  *
@@ -2157,7 +2060,6 @@ function isSlowBuffer (obj) {
   return typeof obj.readFloatLE === 'function' && typeof obj.slice === 'function' && isBuffer(obj.slice(0, 0))
 }
 
-
 /***/ }),
 
 /***/ "./node_modules/lodash/lodash.js":
@@ -2166,7 +2068,6 @@ function isSlowBuffer (obj) {
   \***************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 /* WEBPACK VAR INJECTION */(function(global, module) {var __WEBPACK_AMD_DEFINE_RESULT__;/**
  * @license
  * Lodash <https://lodash.com/>
@@ -2176,7 +2077,6 @@ function isSlowBuffer (obj) {
  * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
  */
 ;(function() {
-
   /** Used as a safe reference for `undefined` in pre-ES5 environments. */
   var undefined;
 
@@ -3884,7 +3784,6 @@ function isSlowBuffer (obj) {
      * @type {Object}
      */
     lodash.templateSettings = {
-
       /**
        * Used to detect `data` property values to be HTML-escaped.
        *
@@ -3924,7 +3823,6 @@ function isSlowBuffer (obj) {
        * @type {Object}
        */
       'imports': {
-
         /**
          * A reference to the `lodash` function.
          *
@@ -19277,7 +19175,6 @@ function isSlowBuffer (obj) {
   \*****************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
-
 // shim for using process in browser
 var process = module.exports = {};
 
@@ -19337,8 +19234,6 @@ function runTimeout(fun) {
             return cachedSetTimeout.call(this, fun, 0);
         }
     }
-
-
 }
 function runClearTimeout(marker) {
     if (cachedClearTimeout === clearTimeout) {
@@ -19363,9 +19258,6 @@ function runClearTimeout(marker) {
             return cachedClearTimeout.call(this, marker);
         }
     }
-
-
-
 }
 var queue = [];
 var draining = false;
@@ -19463,7 +19355,6 @@ process.chdir = function (dir) {
 };
 process.umask = function() { return 0; };
 
-
 /***/ }),
 
 /***/ "./node_modules/setimmediate/setImmediate.js":
@@ -19472,7 +19363,6 @@ process.umask = function() { return 0; };
   \***************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 /* WEBPACK VAR INJECTION */(function(global, process) {(function (global, undefined) {
     "use strict";
 
@@ -19638,19 +19528,15 @@ process.umask = function() { return 0; };
     if ({}.toString.call(global.process) === "[object process]") {
         // For Node.js before 0.9
         installNextTickImplementation();
-
     } else if (canUsePostMessage()) {
         // For non-IE10 modern browsers
         installPostMessageImplementation();
-
     } else if (global.MessageChannel) {
         // For web workers, where supported
         installMessageChannelImplementation();
-
     } else if (doc && "onreadystatechange" in doc.createElement("script")) {
         // For IE 6–8
         installReadyStateChangeImplementation();
-
     } else {
         // For older browsers
         installSetTimeoutImplementation();
@@ -19670,7 +19556,6 @@ process.umask = function() { return 0; };
   \************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 /* WEBPACK VAR INJECTION */(function(global) {var scope = (typeof global !== "undefined" && global) ||
             (typeof self !== "undefined" && self) ||
             window;
@@ -19745,7 +19630,6 @@ exports.clearImmediate = (typeof self !== "undefined" && self.clearImmediate) ||
   \******************************************************************************************************************************************************************************************************************/
 /*! exports provided: render, staticRenderFns */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
-
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
@@ -19896,8 +19780,6 @@ var render = function() {
 var staticRenderFns = []
 render._withStripped = true
 
-
-
 /***/ }),
 
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./assets/js/components/TriangularGrid.vue?vue&type=template&id=fad6b0c4&":
@@ -19906,7 +19788,6 @@ render._withStripped = true
   \**************************************************************************************************************************************************************************************************************/
 /*! exports provided: render, staticRenderFns */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
-
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
@@ -20031,8 +19912,6 @@ var render = function() {
 var staticRenderFns = []
 render._withStripped = true
 
-
-
 /***/ }),
 
 /***/ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js":
@@ -20041,7 +19920,6 @@ render._withStripped = true
   \********************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
-
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return normalizeComponent; });
@@ -20139,7 +20017,6 @@ function normalizeComponent (
   }
 }
 
-
 /***/ }),
 
 /***/ "./node_modules/vue/dist/vue.common.dev.js":
@@ -20148,14 +20025,12 @@ function normalizeComponent (
   \*************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 "use strict";
 /* WEBPACK VAR INJECTION */(function(global, setImmediate) {/*!
  * Vue.js v2.6.10
  * (c) 2014-2019 Evan You
  * Released under the MIT License.
  */
-
 
 /*  */
 
@@ -20525,8 +20400,6 @@ var LIFECYCLE_HOOKS = [
 ];
 
 /*  */
-
-
 
 var config = ({
   /**
@@ -21750,8 +21623,6 @@ function resolveAsset (
 
 /*  */
 
-
-
 function validateProp (
   key,
   propOptions,
@@ -22638,8 +22509,6 @@ function resolveInject (inject, vm) {
 }
 
 /*  */
-
-
 
 /**
  * Runtime helper for resolving raw children VNodes into a slot object.
@@ -24549,8 +24418,6 @@ function queueWatcher (watcher) {
 
 /*  */
 
-
-
 var uid$2 = 0;
 
 /**
@@ -25382,8 +25249,6 @@ function initAssetRegisters (Vue) {
 }
 
 /*  */
-
-
 
 function getComponentName (opts) {
   return opts && (opts.Ctor.options.name || opts.tag)
@@ -27064,8 +26929,6 @@ function wrapFilter (exp, filter) {
 
 /*  */
 
-
-
 /* eslint-disable no-unused-vars */
 function baseWarn (msg, range) {
   console.error(("[Vue compiler]: " + msg));
@@ -27356,8 +27219,6 @@ function genAssignmentCode (
  */
 
 var len, str, chr, index$1, expressionPos, expressionEndPos;
-
-
 
 function parseModel (val) {
   // Fix https://github.com/vuejs/vue/pull/7730
@@ -27804,7 +27665,6 @@ function updateDOMProps (oldVnode, vnode) {
 }
 
 // check platforms/web/util/attrs.js acceptValue
-
 
 function shouldUpdateValue (elm, checkVal) {
   return (!elm.composing && (
@@ -29223,8 +29083,6 @@ var buildRegex = cached(function (delimiters) {
   return new RegExp(open + '((?:.|\\n)+?)' + close, 'g')
 });
 
-
-
 function parseText (
   text,
   delimiters
@@ -30157,8 +30015,6 @@ function processFor (el) {
   }
 }
 
-
-
 function parseFor (exp) {
   var inMatch = exp.match(forAliasRE);
   if (!inMatch) { return }
@@ -31056,10 +30912,6 @@ var baseDirectives = {
 
 /*  */
 
-
-
-
-
 var CodegenState = function CodegenState (options) {
   this.options = options;
   this.warn = options.warn || baseWarn;
@@ -31072,8 +30924,6 @@ var CodegenState = function CodegenState (options) {
   this.staticRenderFns = [];
   this.pre = false;
 };
-
-
 
 function generate (
   ast,
@@ -31603,8 +31453,6 @@ function transformSpecialNewlines (text) {
 
 /*  */
 
-
-
 // these keywords should not appear inside expressions, but operators like
 // typeof, instanceof and in are allowed
 var prohibitedKeywordRE = new RegExp('\\b' + (
@@ -31768,8 +31616,6 @@ function repeat$1 (str, n) {
 }
 
 /*  */
-
-
 
 function createFunction (code, errors) {
   try {
@@ -32099,11 +31945,9 @@ module.exports = Vue;
   \*********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 if (false) {} else {
   module.exports = __webpack_require__(/*! ./vue.common.dev.js */ "./node_modules/vue/dist/vue.common.dev.js")
 }
-
 
 /***/ }),
 
@@ -32113,7 +31957,6 @@ if (false) {} else {
   \***********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
-
 var g;
 
 // This works in non-strict mode
@@ -32135,7 +31978,6 @@ try {
 
 module.exports = g;
 
-
 /***/ }),
 
 /***/ "./node_modules/webpack/buildin/module.js":
@@ -32144,7 +31986,6 @@ module.exports = g;
   \***********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
-
 module.exports = function(module) {
 	if (!module.webpackPolyfill) {
 		module.deprecate = function() {};
@@ -32168,7 +32009,6 @@ module.exports = function(module) {
 	return module;
 };
 
-
 /***/ }),
 
 /***/ 0:
@@ -32177,10 +32017,8 @@ module.exports = function(module) {
   \*******************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
-
 __webpack_require__(/*! C:\Users\dtayl\Projects\Learning\.netcore\Triangular\Triangular.Web\assets\js\app.js */"./assets/js/app.js");
 module.exports = __webpack_require__(/*! C:\Users\dtayl\Projects\Learning\.netcore\Triangular\Triangular.Web\assets\scss\app.scss */"./assets/scss/app.scss");
-
 
 /***/ })
 

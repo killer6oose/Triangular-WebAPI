@@ -119,7 +119,6 @@
                         this.triangleLoading = false;
                     })
 
-                
             },
 
             getRef(row, column) {
@@ -157,5 +156,4 @@
 </script>
 
 <style>
-
 </style>

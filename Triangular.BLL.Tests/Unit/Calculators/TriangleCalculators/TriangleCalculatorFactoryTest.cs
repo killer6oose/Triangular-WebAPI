@@ -1,8 +1,8 @@
-using System;
-using Xunit;
-using Triangular.BLL;
-using Triangular.BLL.Calculators.TriangleCalculators;
 using Moq;
+using Triangular.BLL.Calculators;
+using Triangular.BLL.Factories;
+using Triangular.BLL.Models;
+using Xunit;
 
 namespace Triangular.BLL.Tests.Unit.Calculators.TriangleCalculators
 {
@@ -33,6 +33,5 @@ namespace Triangular.BLL.Tests.Unit.Calculators.TriangleCalculators
 
             Assert.IsType(new RightTriangleCalculator().GetType(), triangleFinder);
         }
-
     }
 }

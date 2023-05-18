@@ -1,8 +1,7 @@
-﻿using System;
+﻿using Moq;
+using Triangular.BLL.Calculators;
+using Triangular.BLL.Models;
 using Xunit;
-using Triangular.BLL;
-using Triangular.BLL.Calculators.TriangleCalculators;
-using Moq;
 
 namespace Triangular.BLL.Tests.Unit.Calculators.TriangleCalculators
 {
@@ -73,6 +72,5 @@ namespace Triangular.BLL.Tests.Unit.Calculators.TriangleCalculators
             Assert.Contains(triangle.Coordinates, (c) => c.X == 50 && c.Y == 60);
             Assert.Contains(triangle.Coordinates, (c) => c.X == 60 && c.Y == 60);
         }
-
     }
 }
