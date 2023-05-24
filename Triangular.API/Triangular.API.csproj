@@ -22,4 +22,10 @@
     <ProjectReference Include="..\Triangular.BLL\Triangular.BLL.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Properties\launchSettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
